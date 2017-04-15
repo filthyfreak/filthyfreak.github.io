@@ -1,0 +1,3 @@
+[submodule "kingbot"]
+	path = kingbot
+	url = https://github.com/filthyfreak/kingbot
